@@ -1,2 +1,2 @@
 # odin
-doing my odin projects here :)
+just doing my odin projects here :)
